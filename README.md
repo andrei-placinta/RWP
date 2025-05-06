@@ -1,1 +1,1 @@
-## Control algorithms for Reaction Wheel Pendulum system.
+## Control algorithms for the Reaction Wheel Pendulum system.
